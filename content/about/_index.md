@@ -42,12 +42,11 @@ interests:
 - linux
 profile_picture: profile.png
 socials:
-  #facebook: YOUR_NAME
   github: NotebookOFXiaoMing
   google_scholar: YOUR_NAME
   linkedin: YOUR_NAME
   twitch: YOUR_NAME
-  twitter: YOUR_NAME
+  twitter: xiaoming130824
 title: about
 ---
 
